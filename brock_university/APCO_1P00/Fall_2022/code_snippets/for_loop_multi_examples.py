@@ -8,4 +8,8 @@ for i in range(-10, 2, 1):
 print(" ")
 for i in range(10, 3, -1):
 	print(i, end=" ")
+<<<<<<< HEAD
 # output: 10 9 8 7 6 5 4
+=======
+# output: 10 9 8 7 6 5 4
+>>>>>>> origin
